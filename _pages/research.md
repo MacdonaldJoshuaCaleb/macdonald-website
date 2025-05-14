@@ -1,11 +1,12 @@
 ---
-layout: single
+layout: splash
 title: "Research"
 permalink: /research/
 ---
 
-
-
+<a href="{{ '/research/' | relative_url }}" class="btn btn--primary">Explore Research</a>
+<a href="{{ '/cv/' | relative_url }}" class="btn">View CV</a>
+<a href="{{ '/about/' | relative_url }}" class="btn">About Me</a>
 
 ## Spectral Coexistence Theory
 
