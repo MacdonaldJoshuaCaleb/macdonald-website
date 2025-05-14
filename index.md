@@ -2,16 +2,15 @@
 layout: splash
 title: "Joshua C. Macdonald"
 permalink: /
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.3"
-  overlay_image: /assets/headshot_macdonald.jpg
-  caption: "Mathematical tools for trait-functional modeling, spectral dynamics, and structured populations"
-excerpt: "Spectral Coexistence Theory and Dynamical Recovery Across Biological Systems"
+excerpt: "Spectral Coexistence Theory and Data-Driven Recovery"
 ---
 
-<a href="{{ '/research/' | relative_url }}" class="btn btn--primary">View Research</a>
+<img src="{{ '/assets/headshot_macdonald.jpg' | relative_url }}" alt="Joshua C. Macdonald" width="200" style="float: right; margin: 0 0 1em 1em; border-radius: 12px;">
+
+<a href="{{ '/research/' | relative_url }}" class="btn btn--primary">Explore Research</a>
 <a href="{{ '/cv/' | relative_url }}" class="btn">View CV</a>
+<a href="{{ '/about/' | relative_url }}" class="btn">About Me</a>
+
 
 ---
 
@@ -28,13 +27,7 @@ This theory is informed by prior modeling work on:
 - Immune feedback and sequential infection (DENV)
 - Cultural transmission networks (Austronesian expansion)
 
-Ongoing collaborations at Johns Hopkins, WHOI, Oregon State and IOLR are helping extend these ideas into **empirically grounded recovery pipelines and statistical inference workflows** for structured population systems.
-
----
-
-▶️ Learn more about my [Research]({{ '/research/' | relative_url }})
-
-
+Ongoing collaborations at Johns Hopkins, WHOI, Oregon State, and Tel Aviv University are helping extend these ideas into **empirically grounded recovery pipelines and statistical inference workflows** for structured population systems.
 
 
 
