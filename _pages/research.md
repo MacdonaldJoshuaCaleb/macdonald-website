@@ -55,3 +55,27 @@ Analyzes reactive quarantine policies during early outbreaks in China using a co
 - *Recovery from Data* — PyMC/ArviZ estimation of trait functionals from partial time series
 - *Field-informed Monitoring Tools* — MVCO and FMDV-based workflows for empirical functional recovery
 - *Application of spectral functionals to NPZD models with seasonal forcing and feedback. 
+
+---
+
+<p style="text-align: center;">
+  <a href="https://orcid.org/0000-0002-3643-6266" title="ORCID" target="_blank">
+    <i class="fab fa-orcid fa-2x"></i>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.webofscience.com/wos/author/record/IWE-2826-2023" title="Web of Science" target="_blank">
+    <i class="fas fa-external-link-alt fa-2x"></i>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=VxTPRq8AAAAJ&hl=en" title="Google Scholar" target="_blank">
+    <i class="fas fa-graduation-cap fa-2x"></i>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.researchgate.net/profile/Joshua_Macdonald4" title="ResearchGate" target="_blank">
+    <i class="fab fa-researchgate fa-2x"></i>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/MacdonaldJoshuaCaleb" title="GitHub" target="_blank">
+    <i class="fab fa-github fa-2x"></i>
+  </a>
+</p>
