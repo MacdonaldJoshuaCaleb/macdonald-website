@@ -4,18 +4,38 @@ title: "Research"
 permalink: /research/
 ---
 
-## Theoretical Framework (Forthcoming)
+## Spectral Coexistence Theory
 
-**Spectral Coexistence Theory I**  
-_Preprint forthcoming July 2025._  
-Introduces general trait-based invasion, persistence, and resilience metrics via operator lifting. Enables model-independent diagnostics for structured dynamics.
+**Spectral Coexistence Theory I** *(Preprint forthcoming)*  
+Defines a class of trait-resolved functionals—invasion, persistence, resilience—derived from the spectral properties of trait-indexed dynamical systems. Establishes a model-agnostic operator-theoretic foundation for structured population modeling across ODEs, PDEs, DDEs, and maps.
 
-## Applied Projects
+- Examples drawn from trait-structured chemostat models
+- Includes simplex visualizations, symbolic and numerical results, and estimation pipelines
+- Forms the theoretical foundation for ongoing work across biological and social systems
 
-**FMDV Transmission in African Buffalo**  
-Published in *The American Naturalist*, 2024.  
-[Zenodo archive](https://doi.org/10.5281/zenodo.7393935) | [Read the paper](https://doi.org/10.1086/730703)
+---
 
-**Cultural Clusters in the Austronesian Expansion**  
-Published in *Evolutionary Human Sciences*, 2024.  
-[Zenodo archive](https://doi.org/10.5281/zenodo.13798914) | [Read the paper](https://doi.org/10.1017/ehs.2024.45)
+## Applied Systems
+
+### **Plankton Dynamics and Trait Thresholds**  
+*In preparation* — Applies spectral functionals to NPZD models with seasonal forcing and feedback. Demonstrates how trait resilience and bloom thresholds emerge from dynamical sorting.
+
+### **FMDV Transmission in African Buffalo**  
+[The American Naturalist (2024)](https://doi.org/10.1086/730703)  
+Links viral growth rates and immune responses to trait-mediated transmission outcomes. Shows how structured within-host dynamics shape landscape-scale epidemic thresholds.
+
+### **Sequential Dengue Infections and ADE**  
+[BioRxiv Preprint (2023)](https://www.biorxiv.org/content/10.1101/2023.08.29.555313v1)  
+Explores antibody-dependent enhancement using a viral-immune kinetics model. Parameter recovery pipelines inform trade-offs and uncertainty in trait structure.
+
+### **Cultural Transmission and Network Clustering**  
+[Evolutionary Human Sciences (2024)](https://doi.org/10.1017/ehs.2024.45)  
+Analyzes cultural data from Austronesian-speaking groups. Principal component structure and trait clustering interpreted through trait-functional geometry.
+
+---
+
+## In Progress
+
+- *Spectral Coexistence Theory II* — Coupling, multi-component systems, and lifting across ecological and epidemiological models
+- *Recovery from Data* — PyMC/ArviZ estimation of trait functionals from partial time series
+- *Field-informed Monitoring Tools* — MVCO and FMDV-based workflows for empirical functional recovery
