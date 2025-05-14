@@ -1,0 +1,14 @@
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+
+title: "Joshua C. Macdonald"
+description: "Trait-based spectral theory and structured population modeling"
+minimal_mistakes_skin: "default"
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
