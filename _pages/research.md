@@ -18,7 +18,8 @@ Defines a class of trait-resolved functionals—invasion, persistence, resilienc
 ## Applied Systems
 
 ### **Plankton Dynamics and Trait Thresholds**  
-*In preparation* — Applies spectral functionals to NPZD models with seasonal forcing and feedback. Demonstrates how trait resilience and bloom thresholds emerge from dynamical sorting.
+[Journal of Mathematical Biology (2023)](https://doi.org/10.1007/s00285-023-01969-7)  
+Analyzes Hopf bifurcation and hysteresis in an NPZD model with seasonal forcing and nonlinear feedback. Serves as a motivating example for the development of trait-based spectral functionals in later work.
 
 ### **FMDV Transmission in African Buffalo**  
 [The American Naturalist (2024)](https://doi.org/10.1086/730703)  
@@ -32,6 +33,16 @@ Explores antibody-dependent enhancement using a viral-immune kinetics model. Par
 [Evolutionary Human Sciences (2024)](https://doi.org/10.1017/ehs.2024.45)  
 Analyzes cultural data from Austronesian-speaking groups. Principal component structure and trait clustering interpreted through trait-functional geometry.
 
+[arXiv Preprint: Bayesian Estimation of the Number of Significant Principal Components for Cultural Data (2024)](https://doi.org/10.48550/arXiv.2409.12129)  
+Develops a probabilistic framework for identifying latent structure in cultural datasets, enabling principled dimensionality reduction prior to trait-functional recovery.
+
+### **Behavioral Heterogeneity in COVID-19 Transmission**  
+[Royal Society Open Science (2021)](https://doi.org/10.1098/rsos.210227)  
+Models population-level persistence under variable lockdown fatigue, testing access, and behavioral adherence across U.S. states.
+
+[Journal of Theoretical Biology (2022)](https://doi.org/10.1016/j.jtbi.2021.110919)  
+Analyzes reactive quarantine policies during early outbreaks in China using a compartmental COVID model with behavior-structured feedback.
+
 ---
 
 ## In Progress
@@ -39,3 +50,4 @@ Analyzes cultural data from Austronesian-speaking groups. Principal component st
 - *Spectral Coexistence Theory II* — Coupling, multi-component systems, and lifting across ecological and epidemiological models
 - *Recovery from Data* — PyMC/ArviZ estimation of trait functionals from partial time series
 - *Field-informed Monitoring Tools* — MVCO and FMDV-based workflows for empirical functional recovery
+- *Application of spectral functionals to NPZD models with seasonal forcing and feedback. 
