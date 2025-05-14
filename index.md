@@ -20,3 +20,7 @@ This theory is informed by prior modeling work on:
 
 Ongoing collaborations at Johns Hopkins, WHOI, Oregon State and IOLR are helping extend these ideas into **empirically grounded recovery pipelines and statistical inference workflows** for structured population systems.
 
+---
+
+▶️ Learn more about my [research themes](/research/), including trait-functional theory, ecological models, and statistical recovery.
+
