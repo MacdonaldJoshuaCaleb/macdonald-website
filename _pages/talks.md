@@ -43,3 +43,23 @@ permalink: /talks/
 *Title:* Modeling COVID-19 Outbreaks in the United States with Distinct Testing, Lockdown Speed, and Fatigue Rates  
 🏆 *Best Contributed Talk – Mathematical Epidemiology Track*  
 📄 [Slides](https://...)
+
+---
+
+<p style="text-align: center;">
+  <a href="https://orcid.org/0000-0002-3643-6266" title="ORCID" target="_blank">
+    <i class="fab fa-orcid fa-2x"></i>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=VxTPRq8AAAAJ&hl=en" title="Google Scholar" target="_blank">
+    <i class="fas fa-graduation-cap fa-2x"></i>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.researchgate.net/profile/Joshua_Macdonald4" title="ResearchGate" target="_blank">
+    <i class="fab fa-researchgate fa-2x"></i>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/MacdonaldJoshuaCaleb" title="GitHub" target="_blank">
+    <i class="fab fa-github fa-2x"></i>
+  </a>
+</p>
