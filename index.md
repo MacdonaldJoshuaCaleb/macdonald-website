@@ -22,6 +22,7 @@ Ongoing collaborations at Johns Hopkins, WHOI, Oregon State and IOLR are helping
 
 ---
 
-▶️ Learn more about my [research themes](research/)
+▶️ Learn more about my [research themes](./research.html)
+
 
 
