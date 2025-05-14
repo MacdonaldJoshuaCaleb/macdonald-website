@@ -6,13 +6,20 @@ title: "Joshua C. Macdonald"
 description: "Trait-functional modeling, structured population dynamics, and spectral theory"
 minimal_mistakes_skin: "default"
 
-# Enable pages folder
+# Enable custom pages folder
 collections:
   pages:
     output: true
     permalink: /:path/
 
-# Top navigation bar
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+
+# Top nav
 navigation:
   - title: "Home"
     url: /
@@ -24,4 +31,5 @@ navigation:
     url: /cv/
   - title: "About"
     url: /about/
+
 
