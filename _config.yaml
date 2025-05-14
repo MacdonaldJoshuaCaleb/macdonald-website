@@ -12,3 +12,8 @@ defaults:
       type: "pages"
     values:
       layout: single
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
