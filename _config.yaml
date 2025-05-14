@@ -17,3 +17,15 @@ collections:
   pages:
     output: true
     permalink: /:path/
+
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Software"
+    url: /software/
+  - title: "CV"
+    url: /cv/
+  - title: "About"
+    url: /about/
