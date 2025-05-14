@@ -3,7 +3,8 @@ layout: home
 title: "Joshua C. Macdonald"
 excerpt: "Trait-functional modeling, structured population dynamics, and spectral coexistence theory"
 ---
-<img src="/assets/Headshot_Macdonald.jpeg" alt="Joshua C. Macdonald" width="200" style="float: right; margin: 0 0 1em 1em;">
+<img src="{{ '/assets/headshot_macdonald.jpg' | relative_url }}" alt="Joshua C. Macdonald" width="200" style="float: right; margin: 0 0 1em 1em;">
+
 
 I develop mathematical tools for **dynamical and statistical modeling** of structured populations—systems in which individuals, agents, or processes vary across continuous or discrete traits.
 
