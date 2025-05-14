@@ -1,8 +1,13 @@
 ---
-layout: single
+layout: splash
 title: "Talks"
 permalink: /talks/
 ---
+
+<a href="{{ '/research/' | relative_url }}" class="btn btn--primary">Explore Research</a>
+<a href="{{ '/cv/' | relative_url }}" class="btn">View CV</a>
+<a href="{{ '/about/' | relative_url }}" class="btn">About Me</a>
+<a href="{{ '/talks/' | relative_url }}" class="btn">Selected Talks</a>
 
 ### 🎓 Invited Academic Talks
 
