@@ -5,6 +5,7 @@ permalink: /research/
 ---
 
 
+
 ## Spectral Coexistence Theory
 
 **Spectral Coexistence Theory I** *(Preprint forthcoming)*  
