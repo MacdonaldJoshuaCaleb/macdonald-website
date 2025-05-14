@@ -22,5 +22,6 @@ Ongoing collaborations at Johns Hopkins, WHOI, Oregon State and IOLR are helping
 
 ---
 
-▶️ Learn more about my [research themes](/research/), including trait-functional theory, ecological models, and statistical recovery.
+▶️ Learn more about my [research themes](research/)
+
 
