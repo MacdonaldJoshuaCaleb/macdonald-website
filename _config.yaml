@@ -1,21 +1,29 @@
 # Site settings
 title: "Joshua C. Macdonald"
 description: "Trait-functional modeling, structured population dynamics, and spectral theory"
-baseurl: "/macdonald-website" # the subpath of your site, e.g., /macdonald-website
-url: "https://macdonaldjoshuacaleb.github.io" # the base hostname & protocol for your site
+baseurl: "/macdonald-website" # subpath of the site
+url: "https://macdonaldjoshuacaleb.github.io" # base site URL
 
-# Theme settings
+# Theme
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
 
-# Collections
+# Page output configuration
 collections:
   pages:
     output: true
     permalink: /:path/
 
-# Navigation
+# Defaults for page layout
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+
+# Navigation menu items (titles + links)
 navigation:
   - title: "Home"
     url: /
@@ -28,12 +36,11 @@ navigation:
   - title: "About"
     url: /about/
 
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-
+# Pages to include in the header nav bar
+header_pages:
+  - index.md
+  - _pages/research.md
+  - _pages/software.md
+  - _pages/cv.md
+  - _pages/about.md
 
